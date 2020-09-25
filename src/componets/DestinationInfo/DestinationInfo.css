@@ -1,0 +1,16 @@
+.card{
+    height: 330px;
+    width: 220px;
+    border-radius: 15px;
+    border: none;
+}
+.card:hover{
+    border: 3px solid lightblue;
+}
+.card-img{
+    height: 100%;
+}
+.text-head{
+    font-size: 22px;
+    margin-top: 240px;
+}
